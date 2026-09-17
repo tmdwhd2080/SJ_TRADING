@@ -1,0 +1,3 @@
+﻿target_date,component,release_month,cutoff_time_et,qwen_model,prompt_version,article_count,latest_article_time_utc,surprise_score,confidence,leakage_risk,raw_json
+2024-09-01,private,2024-10,2024-10-04 08:29:00 ET,qwen-plus,v1_no_future_after_release_month,,,,,,
+2024-09-01,government,2024-10,2024-10-04 08:29:00 ET,qwen-plus,v1_no_future_after_release_month,,,,,,

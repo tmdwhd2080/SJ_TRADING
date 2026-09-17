@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-08-06T09:40:10",
+  "year": 2026,
+  "observation_start": "2026-01-01",
+  "observation_end": "2026-12-31",
+  "realtime_start": "2026-01-01",
+  "realtime_end": "9999-12-31",
+  "series": {
+    "PAYEMS": {
+      "label": "BLS all employees, total nonfarm",
+      "source": "BLS via FRED/ALFRED",
+      "notes": "Monthly level, thousands of persons, seasonally adjusted. Use MoM difference as NFP headline proxy.",
+      "frequency": "monthly",
+      "scale_to_thousands": 1.0
+    },
+    "ADPMNUSNERSA": {
+      "label": "ADP total nonfarm private payroll employment",
+      "source": "ADP via FRED/ALFRED",
+      "notes": "Monthly level, persons, seasonally adjusted. Use MoM difference / 1000 for thousands.",
+      "frequency": "monthly",
+      "scale_to_thousands": 0.001
+    },
+    "ICSA": {
+      "label": "Initial claims",
+      "source": "DOL/ETA via FRED/ALFRED",
+      "notes": "Weekly initial unemployment insurance claims, seasonally adjusted.",
+      "frequency": "weekly",
+      "scale_to_thousands": 0.001
+    }
+  },
+  "outputs": {
+    "combined_vintage_all": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\combined_vintage_all.csv",
+    "combined_initial_release": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\combined_initial_release.csv",
+    "revision_events": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\revision_events.csv",
+    "latest_snapshot": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\latest_snapshot.csv",
+    "monthly_changes_by_vintage": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\monthly_changes_by_vintage.csv",
+    "monthly_change_revision_events": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\monthly_change_revision_events.csv",
+    "series_metadata": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\series_metadata.csv",
+    "vintage_dates": "alfred_employment_data\\data\\alfred_employment_2026_refresh\\vintage_dates.csv"
+  }
+}

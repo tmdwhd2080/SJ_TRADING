@@ -1,0 +1,3 @@
+﻿model,target_date,payems_consensus_k,adp_actual_k,claims_avg_k,adp_implied_payems_k,adp_implied_surprise_k,predicted_payems_surprise_k,predicted_payems_k,private_lag1_k,predicted_private_k,predicted_government_k
+model1_two_step_surprise,2026-07-01,88.0,44.0,202.75,157.6321066626293,69.6321066626293,67.27832941933585,155.27832941933585,,,
+model2_split_private_government,2026-07-01,88.0,44.0,202.75,,,105.01220091624941,193.0122009162494,49.0,180.39729875048207,12.61490216576736
