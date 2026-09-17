@@ -1,0 +1,6 @@
+# Versions verified with Python 3.12 in the source environment.
+numpy==2.4.3
+pandas==2.3.3
+requests==2.33.0
+beautifulsoup4==4.14.3
+lxml==6.1.0

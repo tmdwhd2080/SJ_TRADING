@@ -1,8 +1,0 @@
-﻿series_id,label,title,observation_start,observation_end,frequency,units,seasonal_adjustment,last_updated
-PAYEMS,BLS total nonfarm payrolls,"All Employees, Total Nonfarm",1939-01-01,2026-06-01,Monthly,Thousands of Persons,Seasonally Adjusted,2026-07-02 08:31:46-05
-USPRIV,BLS total private payrolls,"All Employees, Total Private",1939-01-01,2026-06-01,Monthly,Thousands of Persons,Seasonally Adjusted,2026-07-02 08:31:33-05
-USGOVT,BLS government payrolls,"All Employees, Government",1939-01-01,2026-06-01,Monthly,Thousands of Persons,Seasonally Adjusted,2026-07-02 08:31:34-05
-CES9091000001,BLS federal government payrolls,"All Employees, Federal",1939-01-01,2026-06-01,Monthly,Thousands of Persons,Seasonally Adjusted,2026-07-02 08:33:42-05
-CES9092000001,BLS state government payrolls,"All Employees, State Government",1955-01-01,2026-06-01,Monthly,Thousands of Persons,Seasonally Adjusted,2026-07-02 08:33:45-05
-CES9093000001,BLS local government payrolls,"All Employees, Local Government",1955-01-01,2026-06-01,Monthly,Thousands of Persons,Seasonally Adjusted,2026-07-02 08:33:33-05
-ADPMNUSNERSA,ADP total nonfarm private payroll employment,Total Nonfarm Private Payroll Employment,2010-01-01,2026-07-01,Monthly,Persons,Seasonally Adjusted,2026-08-05 07:27:33-05

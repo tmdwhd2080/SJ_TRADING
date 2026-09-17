@@ -1,0 +1,27 @@
+{
+  "status": "stopped",
+  "run_date": "20260916",
+  "run_timestamp": "2026-09-16 15:39:31",
+  "config": {
+    "output_dir": "C:\\Users\\tmdwhd2080\\Desktop\\blank-app-1\\theme_intraday_ga_data",
+    "legacy_history_dir": "C:\\Users\\tmdwhd2080\\Desktop\\blank-app-1\\theme_data",
+    "max_theme_pages": 20,
+    "request_timeout": 10,
+    "request_retries": 3,
+    "request_sleep_sec": 0.35,
+    "max_history_gap_days": 10,
+    "allow_stale_history": false,
+    "max_candidate_stocks": 80,
+    "portfolio_size": 10,
+    "max_stock_weight": 0.2,
+    "min_final_weight": 0.005,
+    "ga_population": 120,
+    "ga_generations": 80,
+    "ga_mutation_rate": 0.18,
+    "ga_elite_ratio": 0.12,
+    "ga_tournament_k": 3,
+    "random_seed": 42
+  },
+  "theme_count": 100,
+  "reason": "Latest prior history is stale: 20260615 vs current 20260916 (93 calendar days). Use --allow-stale-history only for testing."
+}
